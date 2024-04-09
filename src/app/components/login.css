@@ -1,0 +1,23 @@
+.axelor_logo {
+  max-height: 96px;
+  max-width: 368px;
+  vertical-align: middle;
+  box-sizing: border-box;
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+.login_btn:hover {
+  background-color: #4338ca !important;
+}
+.error_message {
+  padding: 0.5rem !important;
+  margin-bottom: 0.25rem !important;
+  border: 1px solid rgb(241, 185, 183) !important;
+  border-radius: 5px !important;
+  color: rgb(117, 32, 47) !important;
+  background-color: rgb(255, 216, 222) !important;
+  margin-bottom: 20px !important;
+}
+.form_input:focus{
+    background-color: rgb(208, 182, 233) !important;
+}

@@ -1,0 +1,55 @@
+{
+  "name": "internship-aos-kanishka-deo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.15.12",
+    "@mui/system": "^5.15.12",
+    "@mui/x-date-pickers": "^6.19.6",
+    "@mui/x-date-pickers-pro": "^6.19.6",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "axios": "^1.3.4",
+    "dayjs": "^1.11.10",
+    "i18next": "^22.4.11",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^12.2.0",
+    "react-moment": "^1.1.3",
+    "react-router-dom": "^6.9.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.0"
+  },
+  "proxy": "http://localhost:8080/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
